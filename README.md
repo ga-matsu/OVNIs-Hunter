@@ -1,4 +1,3 @@
-# data-friendly
-Tests, coding and analysis
+# OVNIs hunter
 
-This is a space for dumping all projects about data that has come up to my mind or my screen.
+This place is reserved for the mighty OVNIs hunters, for all those who want to chase them!
